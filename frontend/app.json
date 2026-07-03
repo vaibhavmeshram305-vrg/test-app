@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PVDesign AI",
+    "slug": "pvdesign-ai",
+    "scheme": "pvdesign-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-asset"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
